@@ -1,0 +1,21 @@
+Timestamp,Location,Signal Strength (dBm),Download Speed (Mbps),Upload Speed (Mbps),Latency (ms),Jitter (ms),Network Type,Device Model,Carrier,Band,Battery Level (%),Temperature (°C),Connected Duration (min),Handover Count,Data Usage (MB),Video Streaming Quality,VoNR Enabled,Network Congestion Level,Ping to Google (ms)
+09:51.2,Berlin,75.4,609.09,126.18,17.8,4.09,5G SA,Galaxy S23,Verizon,n78,87,37.8,34,2,120.4,4,TRUE,Medium,21.9
+59:51.1,Mumbai,79.6,149.52,94.3,4.8,4.86,4G,Pixel 7,Jio,n28,83,23,30,4,227.42,5,FALSE,Medium,85.2
+49:51.2,Kolkata,87.6,345.67,20.97,9.7,1.16,4G,Nord 4,Jio,n258,66,28.9,17,3,319.69,3,TRUE,Low,28.4
+59:51.2,Berlin,107,928.06,107.67,17.7,0.63,5G SA,iPhone 14,Verizon,n260,40,42.9,21,1,258.6,3,FALSE,Low,77.4
+19:51.2,Kolkata,72,701.17,102.82,13.3,2.03,4G,Nord 4,Airtel,n258,51,43.1,45,4,252.04,5,FALSE,Medium,87.8
+39:51.1,Chennai,85.7,522.28,78.69,13,3.49,5G SA,iPhone 14,Jio,n258,40,34.7,58,3,127.88,5,TRUE,High,35
+59:51.2,Mumbai,78.6,961.51,92.01,13.8,1.86,5G NSA,Galaxy S23,Jio,n258,24,43.9,39,4,216.43,3,TRUE,Low,36.2
+19:51.1,San Francisco,95.1,799.3,70.23,12.3,2.73,5G NSA,Pixel 7,Verizon,n78,92,35.4,40,4,147.42,5,TRUE,High,44.6
+39:51.2,Chennai,85.2,521.56,28.49,9.2,4.62,4G,GT 7,Jio,n258,96,32.3,31,3,156.95,3,TRUE,High,10.8
+39:51.2,New York,67.4,427.73,54.19,17.7,0.48,4G,Galaxy S23,Verizon,n78,59,27.4,53,2,445.6,2,FALSE,High,89.5
+39:51.2,Tokyo,81,656,44.14,5.2,0.42,5G SA,GT 7,AT&T,n41,25,28.6,35,2,36.9,5,TRUE,Low,56.4
+59:51.2,New York,101.3,170.27,63.01,4.5,1.45,4G,GT 7,Verizon,n78,53,25.5,23,0,105.22,3,FALSE,High,61.7
+29:51.2,Berlin,63.3,576.76,119.02,1.4,2.21,5G SA,iPhone 14,T-Mobile,n260,72,25.1,49,1,411.23,1,TRUE,Medium,87
+49:51.2,Mumbai,91.3,532.51,112.75,6.9,3.73,4G,iPhone 14,Vi,n78,61,31,51,0,217.52,1,FALSE,High,61.6
+09:51.1,Chennai,107.1,730.41,28.28,11.4,2.42,5G NSA,Galaxy S23,Vi,n258,61,44.7,38,3,443.97,1,FALSE,High,71.7
+19:51.2,San Francisco,78.2,184.74,43.21,5.6,0.2,5G NSA,GT 7,Verizon,n260,14,39.5,44,3,440.76,3,FALSE,Low,36.4
+49:51.2,Mumbai,72.6,429.46,105.62,5.5,4.34,4G,Pixel 7,Airtel,n28,72,44.8,29,4,282.21,2,FALSE,Medium,66.9
+09:51.2,Berlin,97.5,992.17,80.27,17.5,1.28,5G SA,Galaxy S23,Verizon,n78,78,25.8,56,0,73.19,5,TRUE,Low,94.2
+49:51.1,Berlin,94.6,897.94,77.85,1.2,2.59,5G NSA,Nord 4,Verizon,n260,13,25.9,21,3,498.59,4,TRUE,Medium,11.3
+19:51.1,Delhi,68.1,495.21,129.06,1.1,4.05,5G NSA,Pixel 7,Airtel,n258,60,22.8,26,3,416.56,2,FALSE,High,41.2
